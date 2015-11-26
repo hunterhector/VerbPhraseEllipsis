@@ -10,4 +10,5 @@ To use the data, one also need to get raw text of the BNC data (which are origin
 
 
 [1] Leif Arda Nielsen. 2005. A corpus-based study of Verb Phrase Ellipsis Identification and Resolution. Ph.D. thesis, King’s College London.
+
 [2] Johan Bos and Jennifer Spenader. 2011. An annotated corpus for the analysis of VP ellipsis. Language Resources and Evaluation, 45(4):463–494.
