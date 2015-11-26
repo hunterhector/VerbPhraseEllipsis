@@ -1,0 +1,23 @@
+Wrong annotation ?
+
+bnc_EWC.829.24      ->829.7-8		| No_change | '' Well , you 'd better get on , then , '' he said , '' and anyone else who wants to get on Personally , I 'm , going to wait until Fiver and Pipkin are fit to tackle it . 
+
+Source span changed wrong ?
+
+bnc_EWC.1269.24     ->1269.21		| Tense-base |
+
+
+Source not found
+
+bnc_EDJ.174.9       ->174.1		| Unspoken | 	
+bnc_EDJ.175.7       ->175.1		| Unspoken | 
+
+bnc_FR3.1072.5      ->1072.1		| Inference |
+
+
+
+TO DO:
+
+Correct offsets on 
+
+C8T, FU6, G1A, HA3, EDJ
