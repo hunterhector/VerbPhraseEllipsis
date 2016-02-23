@@ -2,7 +2,7 @@
 
 In a recent effort we clean the data annotated by Nielsen[1]. We convert the parser dependent annotation offset to a recent format used by Bos and Spenader [2]. The standoff annotation is located at directory "annotations/".
 
-To use the data, one also need to get raw text of the BNC data (which are originally in XML format). We provide our code that obtain the annotation data we used, in Java and Python respectively:
+To use the data, one also need to get raw text of the BNC data (which are originally in XML format, available [here](http://ota.ox.ac.uk/desc/2554)). We provide our code to obtain the text, in Java and Python respectively:
 
 > [Python version](https://github.com/hunterhector/VerbPhraseEllipsis/blob/master/src/main/python/BNCReader.py)
 > This is slightly slower, but very easy to use, and should be
@@ -15,7 +15,7 @@ To use the data, one also need to get raw text of the BNC data (which are origin
 > argument should be [Unpacked BNC directory]/Texts, the output can be
 > found at "data/bnc_converted".
 
-And then you just need to take the output text the following sections as the raw text part of the annotations (the rest are not annotated)
+Now locate the output directory, you will find the raw text for each BNC section. The only sections you need are the following ones, the rest are not annotated.
 
     A0P A19 A2U C8T CS6 EDJ EWC FNS FR3 FU6 G1A H7F HA3 J25
 
