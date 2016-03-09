@@ -1,4 +1,5 @@
-### Repository for some small VerbPhraseEllipsis Code###
+Repository for Verb Phrase Ellipsis annotation
+-------------------------------------------------
 
 In a recent effort we clean the data annotated by Nielsen[1]. We convert the parser dependent annotation offset to a recent format used by Bos and Spenader [2]. The standoff annotation is located at directory "annotations/".
 
@@ -23,9 +24,16 @@ Now locate the output directory, you will find the raw text for each BNC section
 
 [2] Johan Bos and Jennifer Spenader. 2011. An annotated corpus for the analysis of VP ellipsis. Language Resources and Evaluation, 45(4):463–494.
 
+License:
+--------
+
+###Code
+The code in this repository is licensed under Apache V2.0, you can find a copy in this repository.
+
+###Dataset
+Our cleaned version of the standoff annotation is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). The original data is developed by [Leif Arda Nielsen](https://sites.google.com/site/leifardanielsen/vpe-dataset-and-code), we thanks Leif for allowing us to republish the data again.
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-The standoff annotation is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
