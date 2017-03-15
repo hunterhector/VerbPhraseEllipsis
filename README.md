@@ -27,10 +27,10 @@ Now locate the output directory, you will find the raw text for each BNC section
 License:
 --------
 
-###Code
+### Code
 The code in this repository is licensed under Apache V2.0, you can find a copy in this repository.
 
-###Dataset
+### Dataset
 Our cleaned version of the standoff annotation is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). The original data is developed by [Leif Arda Nielsen](https://sites.google.com/site/leifardanielsen/vpe-dataset-and-code), we thanks Leif for allowing us to republish the data again.
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
