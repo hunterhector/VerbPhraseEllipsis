@@ -20,7 +20,7 @@ Now locate the output directory, you will find the raw text for each BNC section
 
     A0P A19 A2U C8T CS6 EDJ EWC FNS FR3 FU6 G1A H7F HA3 J25
 
-##Attention
+## Attention
 The BNC text data should be read as UTF-8 strings in order to make sure the offsets are correct. See [Here](https://github.com/hunterhector/VerbPhraseEllipsis/blob/master/src/main/python/Validator.py#L39) for example.
 
 
