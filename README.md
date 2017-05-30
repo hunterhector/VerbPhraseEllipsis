@@ -23,6 +23,8 @@ Now locate the output directory, you will find the raw text for each BNC section
 ## Attention
 The BNC text data should be read as UTF-8 strings in order to make sure the offsets are correct. See [Here](https://github.com/hunterhector/VerbPhraseEllipsis/blob/master/src/main/python/Validator.py#L39) for example.
 
+References
+----------
 
 [1] Leif Arda Nielsen. 2005. A corpus-based study of Verb Phrase Ellipsis Identification and Resolution. Ph.D. thesis, King’s College London.
 
