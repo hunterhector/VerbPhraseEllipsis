@@ -7,7 +7,7 @@ Convert the Brat format ellipsis annotations into Bos and Spenader's format.
 import glob, sys, os
 
 if len(sys.argv) < 3:
-    print "[Usage:] Brat2Bos.py [brat annotation directory] [output directory]"
+    print("[Usage:] Brat2Bos.py [brat annotation directory] [output directory]")
 
 out_dir = sys.argv[2]
 
